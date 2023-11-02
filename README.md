@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RunpengLuo, an undergraduate student studying computer science at The Australian National University
-- 👀 I’m interested in system&architecture and algorithms
-- 🌱 I’m currently learning and research in the area of bioinformatics, in particular in genome assembly algorithm
+- 👀 I’m interested in system&architecture and algorithm design&application.
+- 🌱 I’m currently learning and doing research in the field of computational genomics, specific to genome assembly and haplotype phasing algorithms
 - 📫 How to reach me john.luo@anu.edu.au
 
 <!---
