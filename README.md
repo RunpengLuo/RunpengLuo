@@ -2,7 +2,7 @@
 - 👨‍🎓 I finished my undergraduate studies at the College of Engineering, Computing, and Cybernetics, Australian National University.
 - 🌎 I come from China and currently at Australia.
 - 👀 I’m generally interested in algorithm development on solving problems arises in computational biology and making program run faster via parallelism.
-- 🌱 I’m currently doing research in computational genomics, specific to genome assembly and haplotype phasing algorithms.
+- 🌱 I’m currently doing method development in computational genomics, specific to genome assembly and haplotype phasing algorithms.
 - 📫 How to reach me john.luo@anu.edu.au.
 
 <!---
